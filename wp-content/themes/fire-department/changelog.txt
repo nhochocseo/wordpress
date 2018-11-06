@@ -1,0 +1,37 @@
+Version 1.9
+	Compatibility with PHP7
+	Improved styles
+	Plugins updated
+
+Version 1.8
+	Plugins updated
+	Dummy data import fixed
+
+Version 1.7
+    All plugins updated.
+    Add top menu.
+	
+Version 1.6
+    Core updated.
+    All plugins updated.
+
+Version 1.5
+    Updated all plugins.
+
+Version 1.4
+    Updated Revolution Slider.
+    Google Map's issue fixed.
+
+Version 1.3
+    Updated all plugins.
+    Added new CSS styles.
+
+Version 1.2
+    - Updated Visual Composer and other plugins to their latest versions
+
+Version 1.1
+	- Fixed style and responsive
+	- Change skin item style in essential grid
+
+Version 1.0
+	Release

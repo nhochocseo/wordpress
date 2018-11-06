@@ -1,0 +1,19 @@
+@charset 'utf-8';
+/*
+ Theme Name:   Fire Department Child
+ Theme URI:    http://firedepartment.ancorathemes.com/
+ Description:  Fire Department - Fully Responsive and Mobile Friendly theme
+ Author:       AncoraThemes
+ Author URI:   http://ancorathemes.com/
+ Template:     fire-department
+ Version:      1.0
+ Tags:         light, inheritable theme-options
+ Text Domain:  fire_department
+*/
+
+
+@import url("../fire-department/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */

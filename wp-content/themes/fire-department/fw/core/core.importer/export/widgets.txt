@@ -1,0 +1,42 @@
+a:30:{s:16:"sidebars_widgets";a:6:{s:16:"sidebar_custom_1";a:1:{i:0;s:9:"monster-2";}s:19:"wp_inactive_widgets";a:0:{}s:12:"sidebar_main";a:10:{i:0;s:12:"categories-2";i:1;s:37:"fire_department_widget_recent_posts-2";i:2;s:10:"calendar-2";i:3;s:11:"tag_cloud-2";i:4;s:31:"fire_department_widget_flickr-2";i:5;s:8:"search-2";i:6;s:10:"archives-3";i:7;s:6:"meta-2";i:8;s:39:"fire_department_widget_recent_reviews-2";i:9;s:5:"rss-2";}s:14:"sidebar_footer";a:5:{i:0;s:6:"text-2";i:1;s:6:"text-3";i:2;s:6:"text-4";i:3;s:6:"text-5";i:4;s:6:"text-6";}s:16:"sidebar_custom_0";a:1:{i:0;s:10:"nav_menu-2";}s:13:"array_version";i:3;}s:15:"widget_archives";a:2:{i:3;a:3:{s:5:"title";s:8:"Archives";s:5:"count";i:1;s:8:"dropdown";i:0;}s:12:"_multiwidget";i:1;}s:15:"widget_calendar";a:2:{i:2;a:1:{s:5:"title";s:8:"Calendar";}s:12:"_multiwidget";i:1;}s:17:"widget_categories";a:2:{i:2;a:4:{s:5:"title";s:0:"";s:5:"count";i:0;s:12:"hierarchical";i:0;s:8:"dropdown";i:0;}s:12:"_multiwidget";i:1;}s:22:"widget_ess-grid-widget";a:1:{s:12:"_multiwidget";i:1;}s:36:"widget_fire_department_widget_advert";a:1:{s:12:"_multiwidget";i:1;}s:36:"widget_fire_department_widget_banner";a:1:{s:12:"_multiwidget";i:1;}s:38:"widget_fire_department_widget_calendar";a:1:{s:12:"_multiwidget";i:1;}s:36:"widget_fire_department_widget_flickr";a:2:{i:2;a:3:{s:5:"title";s:9:"Instagram";s:15:"flickr_username";s:12:"52617155@N08";s:12:"flickr_count";i:6;}s:12:"_multiwidget";i:1;}s:43:"widget_fire_department_widget_popular_posts";a:1:{s:12:"_multiwidget";i:1;}s:36:"widget_fire_department_widget_qrcode";a:1:{s:12:"_multiwidget";i:1;}s:41:"widget_fire_department_widget_recent_news";a:1:{s:12:"_multiwidget";i:1;}s:42:"widget_fire_department_widget_recent_posts";a:2:{i:2;a:8:{s:5:"title";s:12:"Recent Posts";s:6:"number";i:2;s:9:"show_date";i:1;s:10:"show_image";i:1;s:11:"show_author";i:1;s:13:"show_counters";s:4:"hide";s:8:"category";i:0;s:9:"post_type";s:4:"post";}s:12:"_multiwidget";i:1;}s:44:"widget_fire_department_widget_recent_reviews";a:2:{i:2;a:8:{s:5:"title";s:6:"Rating";s:6:"number";i:2;s:9:"show_date";i:1;s:10:"show_image";i:1;s:11:"show_author";i:1;s:13:"show_counters";i:2;s:8:"category";i:0;s:9:"post_type";s:4:"post";}s:12:"_multiwidget";i:1;}s:37:"widget_fire_department_widget_socials";a:1:{s:12:"_multiwidget";i:1;}s:43:"widget_fire_department_widget_subcategories";a:1:{s:12:"_multiwidget";i:1;}s:35:"widget_fire_department_widget_top10";a:1:{s:12:"_multiwidget";i:1;}s:37:"widget_fire_department_widget_twitter";a:1:{s:12:"_multiwidget";i:1;}s:11:"widget_meta";a:2:{i:2;a:1:{s:5:"title";s:4:"Meta";}s:12:"_multiwidget";i:1;}s:14:"widget_monster";a:2:{i:2;a:0:{}s:12:"_multiwidget";i:1;}s:15:"widget_nav_menu";a:2:{i:2;a:2:{s:5:"title";s:13:"Services list";s:8:"nav_menu";i:60;}s:12:"_multiwidget";i:1;}s:12:"widget_pages";a:1:{s:12:"_multiwidget";i:1;}s:22:"widget_recent-comments";a:1:{s:12:"_multiwidget";i:1;}s:19:"widget_recent-posts";a:1:{s:12:"_multiwidget";i:1;}s:24:"widget_rev-slider-widget";a:1:{s:12:"_multiwidget";i:1;}s:10:"widget_rss";a:2:{i:2;a:6:{s:5:"title";s:8:"RSS Feed";s:3:"url";s:43:"http://feeds.reuters.com/reuters/peopleNews";s:5:"items";i:2;s:12:"show_summary";i:0;s:11:"show_author";i:1;s:9:"show_date";i:1;}s:12:"_multiwidget";i:1;}s:13:"widget_search";a:2:{i:2;a:1:{s:5:"title";s:6:"Search";}s:12:"_multiwidget";i:1;}s:16:"widget_tag_cloud";a:2:{i:2;a:2:{s:5:"title";s:4:"Tags";s:8:"taxonomy";s:8:"post_tag";}s:12:"_multiwidget";i:1;}s:11:"widget_text";a:6:{i:2;a:3:{s:5:"title";s:5:"Local";s:4:"text";s:297:"<ul class="sc_list">
+<li><a href="#">Find Your Station</a></li>
+<li><a href="#">Volunteer</a></li>
+<li><a href="#">Fire Safety</a></li>
+<li><a href="#">Education</a></li>
+<li><a href="#">Evacuation Info</a></li>
+<li><a href="#">Disaster Readiness</a></li>
+<li><a href="#">Fire Stat</a></li>
+</ul>
+";s:6:"filter";b:0;}i:3;a:3:{s:5:"title";s:15:"Fire Prevention";s:4:"text";s:289:"<ul class="sc_list">
+<li><a href="#">Alerts</a></li>
+<li><a href="#">News</a></li>
+<li><a href="#">Facebook</a></li>
+<li><a href="#">Twitter</a></li>
+<li><a href="#">Flickr</a></li>
+<li><a href="#">Instagram</a></li>
+<li><a href="#">Reddit</a></li>
+<li><a href="#">Red Flag</a></li>
+</ul>
+";s:6:"filter";b:0;}i:4;a:3:{s:5:"title";s:5:"About";s:4:"text";s:259:"<ul class="sc_list">
+<li><a href="#">Fire Code</a></li>
+<li><a href="#">Brush</a></li>
+<li><a href="#">Public Assemblage</a></li>
+<li><a href="#">CUPA</a></li>
+<li><a href="#">Development Services</a></li>
+<li><a href="#">Industrial/Commercial</a></li>
+</ul>
+";s:6:"filter";b:0;}i:5;a:3:{s:5:"title";s:15:"Stay Up to Date";s:4:"text";s:244:"<ul class="sc_list">
+<li><a href="#">Contact Us</a></li>
+<li><a href="#">Organization</a></li>
+<li><a href="#">Public Relations</a></li>
+<li><a href="#">Join Us</a></li>
+<li><a href="#">Dept History</a></li>
+<li><a href="#">FAQ's</a></li>
+</ul>";s:6:"filter";b:0;}i:6;a:3:{s:5:"title";s:23:"Call 911 or Emergencies";s:4:"text";s:183:"<p>Register for AlertSCC Emergency Notifications </p>
+
+<p><span style="color:#e78600;">1-234-567-8910</span><br/>
+(Administrative Headquarters)</p>
+
+<p>info@yourcityfiredept.org</p>
+
+";s:6:"filter";b:0;}s:12:"_multiwidget";i:1;}s:31:"widget_tribe-events-list-widget";a:1:{s:12:"_multiwidget";i:1;}}

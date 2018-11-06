@@ -1,0 +1,27 @@
+27.04.2017 12:59:17 Load data from the file http://trex2.dev.themerex.net/demo/default/posts.txt successful
+27.04.2017 13:01:12 Load data from the file http://trex2.dev.themerex.net/demo/default/posts.txt successful
+27.04.2017 13:01:15 Load data from the file http://trex2.dev.themerex.net/demo/default/posts.txt successful
+27.04.2017 13:01:19 Load data from the file http://trex2.dev.themerex.net/demo/default/posts.txt successful
+27.04.2017 13:01:24 Export 210 rows from table 'posts'. Used query: SELECT t.* FROM wp_posts AS t WHERE t.post_type NOT IN ('revision') ORDER BY t.ID ASC
+27.04.2017 13:01:24 Export 3876 rows from table 'postmeta'. Used query: SELECT t.* FROM wp_postmeta AS t ORDER BY t.meta_id ASC
+27.04.2017 13:01:24 Export 13 rows from table 'comments'. Used query: SELECT t.* FROM wp_comments AS t
+27.04.2017 13:01:24 Export 0 rows from table 'commentmeta'. Used query: SELECT t.* FROM wp_commentmeta AS t
+27.04.2017 13:01:24 Export 34 rows from table 'terms'. Used query: SELECT t.* FROM wp_terms AS t ORDER BY t.term_id ASC
+27.04.2017 13:01:24 Export 34 rows from table 'term_taxonomy'. Used query: SELECT t.* FROM wp_term_taxonomy AS t
+27.04.2017 13:01:24 Export 151 rows from table 'term_relationships'. Used query: SELECT t.* FROM wp_term_relationships AS t
+27.04.2017 13:01:24 Export 3 rows from table 'users'. Used query: SELECT t.* FROM wp_users AS t
+27.04.2017 13:01:24 Export 69 rows from table 'usermeta'. Used query: SELECT t.* FROM wp_usermeta AS t
+27.04.2017 13:01:24 Load data from the file http://trex2.dev.themerex.net/demo/default/posts.txt successful
+26.06.2017 08:13:22 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 863
+26.06.2017 08:13:35 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 863
+26.06.2017 08:13:45 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 863
+26.06.2017 08:13:52 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 863
+26.06.2017 08:13:55 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 863
+26.06.2017 08:14:33 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 863
+26.06.2017 08:14:57 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 863
+26.06.2017 08:15:05 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 863
+26.06.2017 08:15:43 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 855
+26.06.2017 08:15:55 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 855
+26.06.2017 08:16:28 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 855
+26.06.2017 08:16:32 parse error: failed at `.scheme_color(text_dark;` /var/www/vhosts/firedep.dv.ancorathemes.com/httpdocs/wp-content/themes/fire-department/css/theme.less on line 855
+26.06.2017 08:43:45 Load data from the file http://firedepartment.ancorathemes.com/demo/default/posts.txt successful
